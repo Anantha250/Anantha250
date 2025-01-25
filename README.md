@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananthachai</h1>
+<h1 align="center">Hello I'm Ananthachai</h1>
 <h3 align="center">A Computer Engineering student at King Mongkut's Institute of Technology Ladkrabang (KMITL).</h3>
 
 <h3 align="left">Connect with me:</h3>
